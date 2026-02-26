@@ -63,8 +63,14 @@ I focus on:
 
 ---
 
-## Connect With Me
+## 📫 Contact Me
 
+- Email: seth.philander@redacademy.co.za
+- 💼 LinkedIn: https://www.linkedin.com/in/seth-philander-88ab3a315/
+
+---
+
+## Connect With Me
 Feel free to connect, collaborate, or discuss Quality Engineering, Automation, or C# development.
 
 ---
