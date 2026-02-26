@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Seth Philander
 
-<!--
-**SethPhil07/SethPhil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Quality Engineer | Test Automation | C# Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a **Quality Engineer Sprinter** passionate about building reliable, scalable, and high-quality software solutions. I specialize in **test automation**, modern testing frameworks, and backend development using **C#**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+- 🔎 Strong focus on Software Quality Engineering  
+- 🤖 Experienced in Test Automation (UI & API)  
+- 🌐 Automation using Cypress  
+- 🖥️ Backend & automation scripting using C# (.NET)  
+- 🧪 Functional, Regression, Integration & End-to-End Testing  
+- 📊 Test planning, reporting, and CI/CD integration  
+
+I believe quality is not just about finding bugs — it’s about preventing them.
+
+---
+
+##  Tech Stack
+
+### Languages & Frameworks
+- C# (.NET)  
+- JavaScript / TypeScript  
+- Cypress  
+- SQL  
+
+### Testing & QA
+- End-to-End Testing  
+- API Testing  
+- Test Case Design  
+- Agile & DevTest Practices  
+- CI/CD Pipelines  
+
+### Tools
+- Git & GitHub  
+- Azure DevOps / Jira  
+- Visual Studio / VS Code  
+
+---
+
+##  What You’ll Find Here
+
+- ✔️ Cypress automation frameworks  
+- ✔️ C# automation utilities  
+- ✔️ API testing examples  
+- ✔️ Sample QA documentation  
+- ✔️ CI/CD pipeline integrations  
+
+---
+
+## My QA Philosophy
+
+Quality is built into the process — not tested at the end.
+
+I focus on:
+- Shift-left testing  
+- Automation-first approach  
+- Clean, maintainable test code  
+- Continuous improvement  
+
+---
+
+## Connect With Me
+
+Feel free to connect, collaborate, or discuss Quality Engineering, Automation, or C# development.
+
+---
+
+⭐ If you find my repositories helpful, feel free to star them!
