@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Seth Philander
 
-## 💻 Quality Engineer | Test Automation | C# Developer
+## Quality Engineer | Test Automation | C# Developer
 
 Welcome to my GitHub profile! I am a **Quality Engineer Sprinter** passionate about building reliable, scalable, and high-quality software solutions. I specialize in **test automation**, modern testing frameworks, and backend development using **C#**.
 
@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I am a **Quality Engineer Sprinter** passionate ab
 
 ##  About Me
 
-- 🔎 Strong focus on Software Quality Engineering  
-- 🤖 Experienced in Test Automation (UI & API)  
-- 🌐 Automation using Cypress  
-- 🖥️ Backend & automation scripting using C# (.NET)  
-- 🧪 Functional, Regression, Integration & End-to-End Testing  
-- 📊 Test planning, reporting, and CI/CD integration  
+- Strong focus on Software Quality Engineering  
+- Experienced in Test Automation (UI & API)  
+- Automation using Cypress  
+- Backend & automation scripting using C# (.NET)  
+- Functional, Regression, Integration & End-to-End Testing  
+- Test planning, reporting, and CI/CD integration  
 
 I believe quality is not just about finding bugs — it’s about preventing them.
 
@@ -43,11 +43,11 @@ I believe quality is not just about finding bugs — it’s about preventing the
 
 ##  What You’ll Find Here
 
-- ✔️ Cypress automation frameworks  
-- ✔️ C# automation utilities  
-- ✔️ API testing examples  
-- ✔️ Sample QA documentation  
-- ✔️ CI/CD pipeline integrations  
+- Cypress automation frameworks  
+- C# automation utilities  
+- API testing examples  
+- Sample QA documentation  
+- CI/CD pipeline integrations  
 
 ---
 
@@ -63,10 +63,10 @@ I focus on:
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - Email: seth.philander@redacademy.co.za
-- 💼 LinkedIn: https://www.linkedin.com/in/seth-philander-88ab3a315/
+- LinkedIn: https://www.linkedin.com/in/seth-philander-88ab3a315/
 
 ---
 
